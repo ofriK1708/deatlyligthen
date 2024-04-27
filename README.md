@@ -1,8 +1,8 @@
 ### Hi there 👋
--I am a student pursuing a Bachelor's degree in Computer Science. 🧑🏻‍🎓
--I have an interest in video games and aspire to learn game development. 👾 🎮
--My objective is to enhance my knowledge and skills in the field of software development. 🧑🏻‍💻
--Apart from academics, I am also passionate about music and love playing the piano in my free time. 🎹 🎵 🎼
+I am a student pursuing a Bachelor's degree in Computer Science. 🧑🏻‍🎓
+I have an interest in video games and aspire to learn game development. 👾 🎮
+My objective is to enhance my knowledge and skills in the field of software development. 🧑🏻‍💻
+Apart from academics, I am also passionate about music and love playing the piano in my free time. 🎹 🎵 🎼
 
 <!--
 **deatlyligthen/deatlyligthen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
